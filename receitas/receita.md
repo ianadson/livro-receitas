@@ -1,12 +1,12 @@
-#Receita Strogonoff
+# Receita Strogonoff
 
-##Ingredientes
+## Ingredientes
 
  - frango
  - creme de leite
  - ketchup
  - milho verde
 
-###Modo de Preparo
+### Modo de Preparo
  - adicione os ingredientes na panela e misture até conzinhar
  - retire do fogo e coma
